@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=4C8EDA&pause=1000&vCenter=true&width=435&lines=Hello+World!;I'm+Sergei;.NET%2FC%23+Software+Engineer)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&&color=4C8EDA&width=435&lines=This+is+my+humble+statistic+%F0%9F%98%84)](https://git.io/typing-svg)    
-[![Stats](https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api?username=Grozoff&hide=contribs&count_private=true&show_icons=true&theme=github_dark&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)    
-[![Top Langs](https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api/top-langs/?username=Grozoff&count_private=true&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api?username=Grozoff&hide=contribs&count_private=true&hide_title=true&show_icons=true&theme=github_dark&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api/top-langs/?username=Grozoff&hide_title=true&count_private=true&layout=compact&show_icons=true&theme=github_dark"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8EDA&width=435&lines=And+My+Tools+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)    
 <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
