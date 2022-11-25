@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=4C8EDA&pause=1000&vCenter=true&width=435&lines=Hello+World!;I'm+Sergei;.NET%2FC%23+Software+Engineer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=4C8EDA&pause=1000&vCenter=true&width=435&lines=Hello+World!;I'm+Sergei;.NET%2FC%23+Software+Developer)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&&color=4C8EDA&width=435&lines=This+is+my+humble+statistic+%F0%9F%98%84)](https://git.io/typing-svg)    
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api?username=Grozoff&hide=contribs&count_private=true&hide_title=true&show_icons=true&theme=github_dark&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats"/>
