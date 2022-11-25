@@ -14,15 +14,17 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.grafana.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> 
 <a href="https://www.linkedin.com/in/grozoff" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/> </a> 
-<a href="https://www.markdownguide.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=md" alt="md" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="40" height="40"/> </a> 
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" alt="rabbitmq" width="40" height="40"/> </a> 
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-128/kafka-282292.png" alt="kafka" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-128/jira-3628861-3030001.png" alt="jira" width="40" height="40"/> </a> 
 <a href="https://github.com/microsoft/terminal" target="_blank"> <img src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" alt="terminal windows" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 
 <!--
 - 🔭 I’m currently working on ...
