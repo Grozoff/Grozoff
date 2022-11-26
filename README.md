@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning 𝐄𝐧𝐠𝐥𝐢𝐬𝐡
 
-- 👯 I’m not looking to collaborate on 𝐛𝐨𝐫𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬
-
 - 🤝 I’m looking for help with 𝐬𝐥𝐞𝐞𝐩
 
 - 💬 You can ask me about anything, 𝐚𝐧𝐝 𝐈 𝐰𝐢𝐥𝐥 ̶ ̶n̶o̶t̶  𝐚𝐧𝐬𝐰𝐞𝐫 𝐲𝐨𝐮
