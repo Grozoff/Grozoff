@@ -1,29 +1,28 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=4C8EDA&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Sergei;.NET%2FC%23+Software+Developer" /></a>
-</p>   
+</p>
 
-```
-- 🔭 I’m currently working on 𝐚 𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐰𝐨𝐫𝐤
+    ➩ 🔭 I’m currently working on a current work
 
-- 🌱 I’m currently learning 𝐄𝐧𝐠𝐥𝐢𝐬𝐡
+    ➩ 🌱 I’m currently learning English
 
-- 🤝 I’m looking for help with 𝐬𝐥𝐞𝐞𝐩
+    ➩ 🤝 I’m looking for help with sleep
 
-- 💬 You can ask me about anything, 𝐚𝐧𝐝 𝐈 𝐰𝐢𝐥𝐥 ̶ ̶n̶o̶t̶  𝐚𝐧𝐬𝐰𝐞𝐫 𝐲𝐨𝐮
+    ➩ 💬 You can ask me about anything, and I will try to help you
 
-- ⚡ Fun fact, 𝐈 𝐚𝐦 𝐧𝐨𝐭 𝐤𝐢𝐝𝐝𝐢𝐧𝐠
-```
+    ➩ ⚡ Fun fact, I don't like fun facts
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&&color=4C8EDA&center=true&vCenter=true&width=435&lines=This+is+my+humble+statistic+%f0%9f%9b%b8" /></a>
 </p> 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api?username=Grozoff&hide=contribs&text_bold=false&count_private=true&card_width=400px&hide_title=true&show_icons=true&theme=github_dark&custom_title=Stats"/>
-<img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api/top-langs/?username=Grozoff&hide_title=true&count_private=true&card_width=335px&layout=compact&show_icons=true&theme=github_dark"/></a>
-</p> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api?username=Grozoff&hide=contribs&text_bold=false&count_private=true&card_width=400px&hide_title=true&show_icons=true&theme=github_dark&custom_title=Stats"/>
+    <img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api/top-langs/?username=Grozoff&hide_title=true&count_private=true&card_width=335px&layout=compact&show_icons=true&theme=github_dark"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -50,5 +49,5 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-</p>   
-
+  <a href="https://stackoverflow.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" width="40" height="40"/> </a>
+</p>
