@@ -41,9 +41,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://github.com/microsoft/terminal" target="_blank"> <img src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" alt="terminal windows" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
   <a href="https://stackoverflow.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="40" height="40"/> </a> 
