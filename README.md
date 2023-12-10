@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=4C8EDA&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Sergei;.NET%2FC%23+Software+Developer" /></a>
 </p>
 
-    ➩ 🔭 I’m currently working on a super-puper secret project - telegram bot (python, fastapi, webhooks, postgresql, vercel)
+    ➩ 🔭 I’m currently working on a super-puper secret project - telegram bot (python, flask, webhooks, postgresql, vercel)
     
     ➩ 🌱 I’m currently learning two languages, English and Python
 
