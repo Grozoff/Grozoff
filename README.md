@@ -46,5 +46,4 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a>
 </p>
