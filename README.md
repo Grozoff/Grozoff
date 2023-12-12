@@ -41,7 +41,6 @@
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a> 
-  <a href="https://github.com/microsoft/terminal" target="_blank"> <img src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" alt="terminal windows" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
