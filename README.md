@@ -44,6 +44,5 @@
   <a href="https://github.com/microsoft/terminal" target="_blank"> <img src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" alt="terminal windows" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
 </p>
