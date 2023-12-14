@@ -25,7 +25,14 @@
     <img height="137px" src="https://github-readme-stats-8b3zp55oq-grozoff.vercel.app/api/top-langs/?username=Grozoff&hide_title=true&count_private=true&card_width=335px&layout=compact&show_icons=true&theme=github_dark"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8EDA&center=true&vCenter=true&width=435&lines=My+Leetcode+%F0%9F%98%85%EF%B8%8F" /></a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/grozoff">
+    <img src="https://leetcard.jacoblin.cool/grozoff?theme=nord&font=Roboto%20Slab" /></a>
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8EDA&center=true&vCenter=true&width=435&lines=And+My+Tools+%F0%9F%9B%A0%EF%B8%8F" /></a>
