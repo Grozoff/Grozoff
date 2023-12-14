@@ -31,7 +31,7 @@
 </p>
 <p align="center">
   <a href="https://leetcode.com/grozoff">
-    <img src="https://leetcard.jacoblin.cool/grozoff?theme=nord&font=Roboto%20Slab" /></a>
+    <img src="https://leetcard.jacoblin.cool/grozoff?theme=dark&font=Roboto%20Slab&border=2&radius=5" /></a>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
