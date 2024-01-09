@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=4C8EDA&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Sergei;.NET%2FC%23+Software+Developer" /></a>
 </p>
 
-    ➩ 🔭 I’m currently working on a super-puper secret project - a telegram bot for my wife(python, flask, webhooks, postgresql, vercel)
+    ➩ 🔭 I’m currently working (experimenting) on a telegram bot (python, flask, webhooks, postgresql, vercel)
     
     ➩ 🌱 I’m currently learning and improving my knowledge of algorithms
 
@@ -13,7 +13,7 @@
 
     ➩ ⚡ Fun fact. My favorite debugging technique is talking to my rubber duck 🦆. It's a great listener
     
-    ➩ ⚡ Another fun fact. I don't have a rubber duck
+    ➩ ⚡ Another fact. I don't have a rubber duck
 
 <p align="center">
   <a href="https://git.io/typing-svg">
